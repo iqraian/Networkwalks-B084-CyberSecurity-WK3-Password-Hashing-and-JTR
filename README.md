@@ -69,10 +69,10 @@ The exercises focus on:
 - Learning how weak passwords can be exposed.
 - Improving knowledge of password security.
 ## Images
-![Networwalks Hash Calculator](hashcal.png)
-![JTR](JTR.png)
-![Networwalks Password Crackor](passcrack.png)
-
+![Networwalks Hash Calculator](hashcal.PNG)
+![JTR](JTR.PNG)
+![Networwalks Password Crackor](passcrack.PNG)
+![Networwalks Password Crackor](capture3.PNG)
 ## 🛡️ Ethical Disclaimer
 
 All practical exercises are conducted in a controlled lab environment using authorized test data.
