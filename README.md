@@ -1,5 +1,12 @@
 # 🔐 Password Hashing & John the Ripper (JTR)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Skill-Cybersecurity-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/OS-Kali%20Linux-E87500?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Password Hassing-0070C0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tools-JTR-238F89?style=flat-square" />
+    <img src="https://img.shields.io/badge/Tools-Networkwalks-238F89?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-E87500?style=flat-square" />
+</p>
 ## 📌 Overview
 
 As part of my ongoing cybersecurity learning journey, I explored **Password Hashing** and practiced using **John the Ripper (JTR)** in a controlled Kali Linux lab environment.
@@ -40,7 +47,8 @@ This practical exercise focused on understanding password hashing, identifying h
 |---|---|
 | Kali Linux | Cybersecurity lab environment |
 | John the Ripper | Password auditing and recovery |
-| Linux Terminal | Executing commands and managing files |
+| Networkwalks Hashing Calculator | Calculate Hash of text/file |
+| Networkwalks Password Cracking | crack password |
 
 ## 💡 Key Takeaways
 
@@ -73,10 +81,4 @@ This exercise improved my understanding of password security, hash identificatio
 
 I will continue exploring cybersecurity tools and techniques through hands-on practice in a controlled lab environment.
 
-## 🙏 Acknowledgment
 
-Special thanks to [Sir Waqas Karim (CCIE)](https://www.linkedin.com/in/waqaskarim/) and [NETWORKWALKS](https://www.linkedin.com/company/networkwalks/) for their support and guidance.
-
-## 🏷️ Topics
-
-`CyberSecurity` `KaliLinux` `JohnTheRipper` `PasswordHashing` `PasswordSecurity` `EthicalHacking` `InfoSec` `Linux`
