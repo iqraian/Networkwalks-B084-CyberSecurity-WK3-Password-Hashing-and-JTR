@@ -72,7 +72,7 @@ The exercises focus on:
 ![Networwalks Hash Calculator](hashcal.PNG)
 ![JTR](JTR.PNG)
 ![Networwalks Password Crackor](passcrack.PNG)
-![Networwalks Password Crackor](capture3.PNG)
+![Networwalks Password Crackor](Capture3.PNG)
 ## 🛡️ Ethical Disclaimer
 
 All practical exercises are conducted in a controlled lab environment using authorized test data.
