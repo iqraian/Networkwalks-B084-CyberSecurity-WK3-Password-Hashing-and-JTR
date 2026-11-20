@@ -68,6 +68,10 @@ The exercises focus on:
 - Practicing password auditing.
 - Learning how weak passwords can be exposed.
 - Improving knowledge of password security.
+## Images
+![Networwalks Hash Calculator](hashcal.png)
+![JTR](JTR.png)
+![Networwalks Password Crackor](passcrack.png)
 
 ## 🛡️ Ethical Disclaimer
 
